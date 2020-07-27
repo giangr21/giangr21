@@ -7,6 +7,7 @@
 ## Hello!👋 Welcome to my profile
 
 My name is Gian Grassi, currently in the last year of information systems at Positivo University.
+Take a look at my website https://www.giandev.com.br/
 
 - :office_worker: Fullstack Developer at **JCLAN Systems**
 - ⚙️ I use daily: .html, .css, .ts.
