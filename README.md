@@ -6,9 +6,9 @@
 
 ## Hello!👋 Welcome to my profile
 
-My name is Gian Grassi, currently in the last year of information systems at Positivo University.
+My name is Gian Grassi, currently in the last semester of information systems bachelor degree at Positivo University.
 Take a look at my website https://www.giandev.com.br/
 
-- :office_worker: Fullstack Developer at **JCLAN Systems**
-- ⚙️ I use daily: .html, .css, .ts.
-- :blue_heart: Techs: React.js, Vue.js, React Native, Node.js, TypeScript.
+- :office_worker: Fullstack Developer at **ExxonMobil**
+- :blue_heart: Techs: React.js, Vue.js, Node.js, TypeScript.
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giangr21&show_icons=true&theme=dracula&locale=en&layout=compact" alt="giangr21" /></p>
