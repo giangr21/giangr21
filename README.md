@@ -10,5 +10,5 @@ My name is Gian Grassi, currently in the last semester of information systems ba
 Take a look at my website https://www.giandev.com.br/
 
 - :office_worker: Fullstack Developer at **ExxonMobil**
-- :blue_heart: Techs: React.js, Vue.js, Node.js, TypeScript.
+- :blue_heart: Techs: React.js, .Net, Node.js, TypeScript.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giangr21&show_icons=true&theme=dracula&locale=en&layout=compact" alt="giangr21" /></p>
