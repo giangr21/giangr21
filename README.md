@@ -6,7 +6,7 @@
 
 ## Hello!👋 Welcome to my profile
 
-My name is Gian Grassi, currently in the last semester of information systems bachelor degree at Positivo University.
+My name is Gian Grassi, I have a information systems bachelor degree at Positivo University.
 For more informations feel free to look at my website https://www.giandev.com.br/
 
 - :office_worker: Fullstack Developer at **ExxonMobil**
