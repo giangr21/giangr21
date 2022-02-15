@@ -6,9 +6,9 @@
 
 ## Hello!👋 Welcome to my profile
 
-My name is Gian Grassi, I have a information systems bachelor degree at Positivo University.
+Hello! I'm Gian Grassi, it's nice to have you here! 
 For more informations feel free to look at my website https://www.giandev.com.br/
 
 - :office_worker: Fullstack Developer at **ExxonMobil**
-- :blue_heart: Techs: React.js, .Net, Node.js, TypeScript.
+- :blue_heart: Techs: React.js, Vue.js, Node.js, .net, TypeScript.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giangr21&show_icons=true&theme=dracula&locale=en&layout=compact" alt="giangr21" /></p>
